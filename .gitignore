@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.so
+*.dylib
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.ipynb_checkpoints/
+torch_compile_debug/
+.reference/
+.venv/
+.vscode/
+gist/*
